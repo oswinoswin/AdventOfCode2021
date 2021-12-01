@@ -27,7 +27,7 @@ def second(filename):
 
 
 if __name__ == "__main__":
-    # print(first("example.txt"))
-    # print(first("input.txt"))
+    print(first("example.txt"))
+    print(first("input.txt"))
     print(second("example.txt"))
     print(second("input.txt"))
