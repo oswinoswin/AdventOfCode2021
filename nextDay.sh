@@ -25,3 +25,4 @@ if __name__ == "__main__":
 EOL
 
 git add $1
+git commit -m $1
